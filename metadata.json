@@ -1,0 +1,6 @@
+{
+  "name": "UniShare - Campus Inter-Departmental Resource Exchange",
+  "description": "Facilitate sustainable inter-departmental equipment sharing, transfer workflows, gate passes, and waste reduction analytics across university campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
